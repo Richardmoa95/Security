@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\bin\Debug\net6.0\PhotoService.Infrastructure.deps.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\bin\Debug\net6.0\PhotoService.Infrastructure.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\bin\Debug\net6.0\PhotoService.Infrastructure.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\bin\Debug\net6.0\PhotoService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\bin\Debug\net6.0\PhotoService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.sourcelink.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoSer.CF4F8757.Up2Date
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\refint\PhotoService.Infrastructure.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\PhotoService.Infrastructure.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Infrastructure\obj\Debug\net6.0\ref\PhotoService.Infrastructure.dll

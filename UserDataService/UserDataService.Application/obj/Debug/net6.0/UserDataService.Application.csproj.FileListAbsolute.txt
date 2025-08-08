@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\bin\Debug\net6.0\UserDataService.Application.deps.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\bin\Debug\net6.0\UserDataService.Application.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\bin\Debug\net6.0\UserDataService.Application.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\bin\Debug\net6.0\UserDataService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\bin\Debug\net6.0\UserDataService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.sourcelink.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserData.838D7643.Up2Date
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\refint\UserDataService.Application.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\UserDataService.Application.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Application\obj\Debug\net6.0\ref\UserDataService.Application.dll

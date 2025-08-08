@@ -1,0 +1,12 @@
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\bin\Debug\net6.0\TokenService.Core.deps.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\bin\Debug\net6.0\TokenService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\bin\Debug\net6.0\TokenService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.sourcelink.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\refint\TokenService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\TokenService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\TokenService\TokenService.Core\obj\Debug\net6.0\ref\TokenService.Core.dll

@@ -1,0 +1,12 @@
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\bin\Debug\net6.0\PhotoService.Core.deps.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\bin\Debug\net6.0\PhotoService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\bin\Debug\net6.0\PhotoService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.sourcelink.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\refint\PhotoService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\PhotoService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\PhotoService\PhotoService.Core\obj\Debug\net6.0\ref\PhotoService.Core.dll

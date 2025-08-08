@@ -1,0 +1,12 @@
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\bin\Debug\net6.0\UserDataService.Core.deps.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\bin\Debug\net6.0\UserDataService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\bin\Debug\net6.0\UserDataService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.sourcelink.json
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\refint\UserDataService.Core.dll
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\UserDataService.Core.pdb
+C:\Users\richa\OneDrive\Documentos\TRABAJO\Evol\code\UserDataService\UserDataService.Core\obj\Debug\net6.0\ref\UserDataService.Core.dll
